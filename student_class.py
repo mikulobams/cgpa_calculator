@@ -1,8 +1,8 @@
 class Student:
     """defines instances of students"""
     def __init__(self, std_full_name, reg_no):
-        self.std_full_name = std_full_name
-        self.reg_no = reg_no
+        self.std_full_name = std_full_name.upper()
+        self.reg_no = reg_no.upper()
         self.tcur = 0
         self.tcue = 0
         self.cgpa = 0

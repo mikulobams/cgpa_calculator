@@ -42,13 +42,28 @@ class Student(Base):
             grade_point = 2.00
         else:
             grade_point = 0.00
-            self.remarks += subject.course_title
+            self.remarks += subject.course_code
         
         cue = float(grade_point * subject.credit_unit)
         self.tcue += cue
         self.cgpa = round(self.tcue/self.tcur, 2)
     def __repr__(self):
-        return f"({self.fullname}) ({self.regno}) ({self.tcur}) ({self.tcue}) ({self.cgpa}) ({self.remarks})"
+        return f"""
+            NAME:       {self.fullname}
+            REG NO:     {self.regno}
+            TCUR:       {self.tcur} 
+            TCUE:       {self.tcue} 
+            CGPA:       {self.cgpa}
+            REMARKS:    {self.remarks})"""
+    
+    def test_print(self):
+        return f"""
+            NAME:       {self.fullname}
+            REG NO:     {self.regno}
+            TCUR:       {self.tcur} 
+            TCUE:       {self.tcue} 
+            CGPA:       {self.cgpa}
+            REMARKS:    {self.remarks}\n\n\n"""
         
 
 engine = create_engine("sqlite:///test.db", echo = True)
@@ -66,5 +81,8 @@ student_1.calculate_cgpa(bdt_152, 40)
 student_1.calculate_cgpa(hcp_361, 70)
 student_1.calculate_cgpa(bio_112, 70)
 
-session.add(student_1)
-session.commit()
+# session.add(student_1)
+# session.commit()
+
+with open('test.txt', 'a') as f:
+    f.write(student_1.test_print())

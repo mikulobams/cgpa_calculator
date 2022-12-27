@@ -2,3 +2,4 @@ __pycache__/
 venv/
 cpga_functions/
 test.db
+test.txt

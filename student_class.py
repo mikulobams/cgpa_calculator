@@ -1,5 +1,5 @@
 #REcords for 2021 entrants
-from sqlalchemy import create_engine, ForeignKey, Column, String, Integer, CHAR, REAL
+from sqlalchemy import create_engine, Column, String, REAL
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from subject_class import *
@@ -387,3 +387,18 @@ student_14.calculate_cgpa(mcb_112, 34)
 student_14.calculate_cgpa(aum_122, 40)
 with open('test.txt', 'a') as f:
     f.write(student_14.test_print())
+
+#query and then update student
+# update_record = session.query(Student).filter(Student.regno == 'cchstz/pt/104/21'.upper()).first()
+# update_record.calculate_cgpa(hcp_361, 90)
+# session.commit()
+
+
+#DELETING DATA
+# query = session.query(Student)
+# query = query.filter(Student.regno == "cchstz/pt/xxx/xx")
+# dcc_cookie = query.first()
+# session.delete(dcc_cookie)
+# session.commit()
+# dcc_cookie = query.first()
+# print(dcc_cookie)

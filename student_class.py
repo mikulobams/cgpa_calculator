@@ -9,8 +9,8 @@ Base = declarative_base()
 class Student(Base):
     __tablename__ = "student_records"
 
-    regno = Column("regno" , String, primary_key = True)
-    fullname = Column("fullname", String)
+    regno = Column("regno" , String, primary_key = True, nullable=False, unique=True)
+    fullname = Column("fullname", String, nullable=False)
     tcur = Column('tcur', REAL)
     tcue = Column('tcue', REAL)
     cgpa = Column('cgpa', REAL)

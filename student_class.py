@@ -51,7 +51,7 @@ class Student(Base):
             TCUR:       {self.tcur} 
             TCUE:       {self.tcue} 
             CGPA:       {self.cgpa}
-            REMARKS:    {self.remarks})"""
+            REMARKS:    {self.remarks}"""
     
     def test_print(self):
         return f"""

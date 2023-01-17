@@ -29,14 +29,29 @@ class Student(Base):
       
         if score >= 70:
             grade_point = 4.00
+            if subject.course_code in self.remarks:
+                update = self.remarks.replace(subject.course_code, '')
+                self.remarks = update
         elif score >= 65:
             grade_point = 3.50
+            if subject.course_code in self.remarks:
+                update = self.remarks.replace(subject.course_code, '')
+                self.remarks = update
         elif score >= 60:
             grade_point = 3.00
+            if subject.course_code in self.remarks:
+                update = self.remarks.replace(subject.course_code, '')
+                self.remarks = update
         elif score >= 55:
             grade_point = 2.50
+            if subject.course_code in self.remarks:
+                update = self.remarks.replace(subject.course_code, '')
+                self.remarks = update
         elif score >= 50:
             grade_point = 2.00
+            if subject.course_code in self.remarks:
+                update = self.remarks.replace(subject.course_code, '')
+                self.remarks = update
         else:
             grade_point = 0.00
             self.remarks += subject.course_code

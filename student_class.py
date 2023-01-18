@@ -78,13 +78,46 @@ class Student(Base):
             REMARKS:    {self.remarks}\n\n"""
         
 
-engine = create_engine("sqlite:///test.db", echo = True)
+engine = create_engine("sqlite:///2021_admission_pharm_tech_results.db", echo = True)
 Base.metadata.create_all(bind=engine)
 Session = sessionmaker(bind=engine)
 session = Session()
 
-test = session.query(Student).all()
-print(test[14])
+
+
+# student_14 = Student('Zainab Dauda', 'cchstz/pt/105/21')
+# student_14.calculate_cgpa(ctz_101, 64)
+# student_14.calculate_cgpa(eng_101, 18)
+# student_14.calculate_cgpa(ict_101, 40)
+# student_14.calculate_cgpa(ptp_111, 50)
+# student_14.calculate_cgpa(phy_111, 55)
+# student_14.calculate_cgpa(chm_111, 41)
+# student_14.calculate_cgpa(bio_111, 50)
+# student_14.calculate_cgpa(etp_101, 50)
+# student_14.calculate_cgpa(bdt_151, 62)
+# student_14.calculate_cgpa(mth_111, 62)
+# student_14.calculate_cgpa(bio_112, 60)
+# student_14.calculate_cgpa(chm_112, 55)
+# student_14.calculate_cgpa(phy_112, 47)
+# student_14.calculate_cgpa(mth_112, 0)
+# student_14.calculate_cgpa(eng_102, 37)
+# student_14.calculate_cgpa(bdt_152, 33)
+# student_14.calculate_cgpa(mcb_112, 34)
+# student_14.calculate_cgpa(aum_122, 40)
+
+
+# session.add(student_14)
+# session.commit()
+
+# with open('new', 'a') as f:
+#     test = session.query(Student).order_by(Student.regno).all()
+#     for student in test:
+#         f.write(student.test_print())
+
+
+
+# test = session.query(Student).order_by(Student.regno).all()
+# print(test)
 
 #query and then update student
 # update_record = session.query(Student).filter(Student.regno == 'cchstz/pt/104/21'.upper()).first()
@@ -92,9 +125,9 @@ print(test[14])
 # session.commit()
 
 
-#DELETING DATA
+# DELETING DATA
 # query = session.query(Student)
-# query = query.filter(Student.regno == "cchstz/pt/xxx/xx")
+# query = query.filter(Student.regno == "cchstz/pt/105/21".upper())
 # dcc_cookie = query.first()
 # session.delete(dcc_cookie)
 # session.commit()

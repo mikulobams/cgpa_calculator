@@ -1,0 +1,856 @@
+
+            NAME:       ABEL RUTH CHINWE NGOZI
+            REG NO:     CCHSTZ/PT/001/21
+            TCUR:       42.0 
+            TCUE:       156.0 
+            CGPA:       3.71
+            REMARKS:    ENG 102, 
+
+
+            NAME:       ABUBAKAR AHMAD ABUBAKAR
+            REG NO:     CCHSTZ/PT/002/21
+            TCUR:       42.0 
+            TCUE:       56.0 
+            CGPA:       1.33
+            REMARKS:    ENG 101, CHM 111, BIO 111, BIO 112, PHY 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       ABUBAKAR USMAN
+            REG NO:     CCHSTZ/PT/003/21
+            TCUR:       42.0 
+            TCUE:       40.0 
+            CGPA:       0.95
+            REMARKS:    ICT 101, PHY 111, CHM 111, BIO 111, MTH 111, BIO 112, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       ALAKU USMAN
+            REG NO:     CCHSTZ/PT/004/21
+            TCUR:       42.0 
+            TCUE:       92.5 
+            CGPA:       2.2
+            REMARKS:    ICT 101, MTH 101, ENG 102, 
+
+
+            NAME:       ALHAGIE TOURAY
+            REG NO:     CCHSTZ/PT/005/21
+            TCUR:       42.0 
+            TCUE:       105.5 
+            CGPA:       2.51
+            REMARKS:    PHY 112, 
+
+
+            NAME:       AMINU GIFT
+            REG NO:     CCHSTZ/PT/006/21
+            TCUR:       42.0 
+            TCUE:       115.0 
+            CGPA:       2.74
+            REMARKS:    ENG 102, 
+
+
+            NAME:       ANITA AMBI
+            REG NO:     CCHSTZ/PT/007/21
+            TCUR:       42.0 
+            TCUE:       90.5 
+            CGPA:       2.15
+            REMARKS:    ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       ANTHONY AGATHA
+            REG NO:     CCHSTZ/PT/008/21
+            TCUR:       42.0 
+            TCUE:       83.5 
+            CGPA:       1.99
+            REMARKS:    ICT 101, CHM 111, PHY 112, 
+
+
+            NAME:       AONDOAKAA JOEL NONGON
+            REG NO:     CCHSTZ/PT/009/21
+            TCUR:       42.0 
+            TCUE:       136.5 
+            CGPA:       3.25
+            REMARKS:    
+
+
+            NAME:       ATAM JACOB ADAOKE
+            REG NO:     CCHSTZ/PT/010/21
+            TCUR:       42.0 
+            TCUE:       65.0 
+            CGPA:       1.55
+            REMARKS:    ENG 101, ICT 101, BIO 111, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       ATSOH LISA
+            REG NO:     CCHSTZ/PT/011/21
+            TCUR:       42.0 
+            TCUE:       70.5 
+            CGPA:       1.68
+            REMARKS:    ENG 101, ICT 101, CHM 111, PHY 112, ENG 102, MCB 112, 
+
+
+            NAME:       AUGUSTINE PATIENCE
+            REG NO:     CCHSTZ/PT/012/21
+            TCUR:       42.0 
+            TCUE:       69.5 
+            CGPA:       1.65
+            REMARKS:    ENG 101, CHM 111, BIO 111, PHY 112, ENG 102, AUM 122, 
+
+
+            NAME:       AYODELE SAMUEL
+            REG NO:     CCHSTZ/PT/013/21
+            TCUR:       42.0 
+            TCUE:       83.0 
+            CGPA:       1.98
+            REMARKS:    ENG 101, CHM 111, BIO 111, CHM 112, ENG 102, 
+
+
+            NAME:       BABALE RICHARD
+            REG NO:     CCHSTZ/PT/014/21
+            TCUR:       42.0 
+            TCUE:       90.0 
+            CGPA:       2.14
+            REMARKS:    BIO 111, ENG 102, MCB 112, 
+
+
+            NAME:       BAGAYANG JENNIFER
+            REG NO:     CCHSTZ/PT/015/21
+            TCUR:       42.0 
+            TCUE:       108.5 
+            CGPA:       2.58
+            REMARKS:    ENG 102, MCB 112, 
+
+
+            NAME:       BALA PATIENCE BULUS
+            REG NO:     CCHSTZ/PT/016/21
+            TCUR:       42.0 
+            TCUE:       57.0 
+            CGPA:       1.36
+            REMARKS:    ICT 101, CHM 111, ETP 101, MTH 111, PHY 112, MTH 112, ENG 102, MCB 112, 
+
+
+            NAME:       BALA U. SAMSON
+            REG NO:     CCHSTZ/PT/017/21
+            TCUR:       42.0 
+            TCUE:       97.5 
+            CGPA:       2.32
+            REMARKS:    ENG 101, AUM 122, 
+
+
+            NAME:       BITRUS JEMIMAH
+            REG NO:     CCHSTZ/PT/018/21
+            TCUR:       42.0 
+            TCUE:       53.5 
+            CGPA:       1.27
+            REMARKS:    CHM 111, BIO 111, ETP 101, BIO 112, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       BULUS S. JENNIFER
+            REG NO:     CCHSTZ/PT/019/21
+            TCUR:       42.0 
+            TCUE:       75.0 
+            CGPA:       1.79
+            REMARKS:    ENG 101, CHM 111, BIO 111, PHY 112, ENG 102, BDT 152, 
+
+
+            NAME:       IBRAHIM CHARITY
+            REG NO:     CCHSTZ/PT/020/21
+            TCUR:       42.0 
+            TCUE:       106.5 
+            CGPA:       2.54
+            REMARKS:    MTH 111, ENG 102, 
+
+
+            NAME:       SULE CLEMENT
+            REG NO:     CCHSTZ/PT/021/21
+            TCUR:       42.0 
+            TCUE:       88.5 
+            CGPA:       2.11
+            REMARKS:    ICT 101, CHM 111, BIO 111, ENG 102, 
+
+
+            NAME:       DADA COMFORT
+            REG NO:     CCHSTZ/PT/022/21
+            TCUR:       42.0 
+            TCUE:       96.0 
+            CGPA:       2.29
+            REMARKS:    BIO 111, PHY 112, MCB 112, 
+
+
+            NAME:       DANLADI YAHAYA HUSSAINI
+            REG NO:     CCHSTZ/PT/023/21
+            TCUR:       42.0 
+            TCUE:       95.5 
+            CGPA:       2.27
+            REMARKS:    CHM 112, ENG 102, 
+
+
+            NAME:       DAVID JOSHUA
+            REG NO:     CCHSTZ/PT/024/21
+            TCUR:       42.0 
+            TCUE:       82.5 
+            CGPA:       1.96
+            REMARKS:    ENG 101, ICT 101, PHY 112, ENG 102, MCB 112, 
+
+
+            NAME:       DAVID WILLIAMS
+            REG NO:     CCHSTZ/PT/025/21
+            TCUR:       42.0 
+            TCUE:       102.5 
+            CGPA:       2.44
+            REMARKS:    ENG 101, ICT 101, BIO 111, MCB 112, 
+
+
+            NAME:       DOGARI AGNESS
+            REG NO:     CCHSTZ/PT/026/21
+            TCUR:       42.0 
+            TCUE:       105.5 
+            CGPA:       2.51
+            REMARKS:    ENG 102, AUM 122, 
+
+
+            NAME:       ELISHA EUNICE
+            REG NO:     CCHSTZ/PT/027/21
+            TCUR:       42.0 
+            TCUE:       63.0 
+            CGPA:       1.5
+            REMARKS:    ENG 101, PHY 111, BIO 111, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       ELISHA HOSEA HYET
+            REG NO:     CCHSTZ/PT/028/21
+            TCUR:       42.0 
+            TCUE:       144.5 
+            CGPA:       3.44
+            REMARKS:    ENG 102, 
+
+
+            NAME:       EMMANUEL REJOICE
+            REG NO:     CCHSTZ/PT/029/21
+            TCUR:       42.0 
+            TCUE:       65.0 
+            CGPA:       1.55
+            REMARKS:    ICT 101, BIO 111, MTH 111, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       EMMANUEL BLESSING NNENNA
+            REG NO:     CCHSTZ/PT/030/21
+            TCUR:       42.0 
+            TCUE:       114.5 
+            CGPA:       2.73
+            REMARKS:    ENG 101, ENG 102, 
+
+
+            NAME:       EMMANUEL FAVOUR ASHIYA
+            REG NO:     CCHSTZ/PT/031/21
+            TCUR:       42.0 
+            TCUE:       101.0 
+            CGPA:       2.4
+            REMARKS:    PHY 111, PHY 112, BDT 152, MCB 112, 
+
+
+            NAME:       BENARD ESTHER
+            REG NO:     CCHSTZ/PT/032/21
+            TCUR:       42.0 
+            TCUE:       84.0 
+            CGPA:       2.0
+            REMARKS:    ENG 101, BIO 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       FATIMA ALIYU
+            REG NO:     CCHSTZ/PT/033/21
+            TCUR:       42.0 
+            TCUE:       66.5 
+            CGPA:       1.58
+            REMARKS:    BIO 112, CHM 112, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       FRANCIS LILIAN
+            REG NO:     CCHSTZ/PT/034/21
+            TCUR:       42.0 
+            TCUE:       94.0 
+            CGPA:       2.24
+            REMARKS:    BIO 111, ENG 102, 
+
+
+            NAME:       FUNOM PATIENCE
+            REG NO:     CCHSTZ/PT/035/21
+            TCUR:       42.0 
+            TCUE:       88.0 
+            CGPA:       2.1
+            REMARKS:    ENG 101, CHM 111, ENG 102, BDT 152, 
+
+
+            NAME:       GABRIEL FAITH
+            REG NO:     CCHSTZ/PT/036/21
+            TCUR:       42.0 
+            TCUE:       157.0 
+            CGPA:       3.74
+            REMARKS:    ENG 102, 
+
+
+            NAME:       GEORGE ISAAC
+            REG NO:     CCHSTZ/PT/037/21
+            TCUR:       42.0 
+            TCUE:       110.0 
+            CGPA:       2.62
+            REMARKS:    ENG 101, ETP 101, ENG 102, 
+
+
+            NAME:       GIDEON PIUS
+            REG NO:     CCHSTZ/PT/038/21
+            TCUR:       42.0 
+            TCUE:       66.0 
+            CGPA:       1.57
+            REMARKS:    ENG 101, CHM 111, BIO 111, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       DANIEL GLORY
+            REG NO:     CCHSTZ/PT/039/21
+            TCUR:       42.0 
+            TCUE:       80.0 
+            CGPA:       1.9
+            REMARKS:    ENG 101, ICT 101, PHY 112, ENG 102, AUM 122, 
+
+
+            NAME:       GOJE ATAMA JOSIAH
+            REG NO:     CCHSTZ/PT/040/21
+            TCUR:       42.0 
+            TCUE:       114.0 
+            CGPA:       2.71
+            REMARKS:    PHY 111, MCB 112, 
+
+
+            NAME:       GWAKMAN YILKUR
+            REG NO:     CCHSTZ/PT/041/21
+            TCUR:       42.0 
+            TCUE:       68.0 
+            CGPA:       1.62
+            REMARKS:    ENG 101, CHM 111, BIO 111, PHY 112, MCB 112, 
+
+
+            NAME:       HARUNA PRECIOUS TIMOTHY
+            REG NO:     CCHSTZ/PT/042/21
+            TCUR:       42.0 
+            TCUE:       98.0 
+            CGPA:       2.33
+            REMARKS:    PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       HASSAN MOHAMMED SARAKI
+            REG NO:     CCHSTZ/PT/043/21
+            TCUR:       42.0 
+            TCUE:       77.5 
+            CGPA:       1.85
+            REMARKS:    ICT 101, CHM 111, CHM 112, ENG 102, 
+
+
+            NAME:       HENRY MARY BOLAJI
+            REG NO:     CCHSTZ/PT/044/21
+            TCUR:       42.0 
+            TCUE:       76.0 
+            CGPA:       1.81
+            REMARKS:    ENG 101, PHY 112, MTH 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       BALA HOPE WAJE
+            REG NO:     CCHSTZ/PT/045/21
+            TCUR:       42.0 
+            TCUE:       77.5 
+            CGPA:       1.85
+            REMARKS:    ENG 101, BIO 111, BIO 112, PHY 112, ENG 102, MCB 112, 
+
+
+            NAME:       IBRAHIM YUSUF
+            REG NO:     CCHSTZ/PT/046/21
+            TCUR:       42.0 
+            TCUE:       58.0 
+            CGPA:       1.38
+            REMARKS:    BIO 111, BIO 112, PHY 112, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       YUSUF ISAH
+            REG NO:     CCHSTZ/PT/047/21
+            TCUR:       42.0 
+            TCUE:       90.0 
+            CGPA:       2.14
+            REMARKS:    CHM 112, PHY 112, AUM 122, 
+
+
+            NAME:       ISYAKU ZAKARIYA
+            REG NO:     CCHSTZ/PT/048/21
+            TCUR:       42.0 
+            TCUE:       138.0 
+            CGPA:       3.29
+            REMARKS:    ENG 102, 
+
+
+            NAME:       JACOB LUKA
+            REG NO:     CCHSTZ/PT/049/21
+            TCUR:       42.0 
+            TCUE:       54.0 
+            CGPA:       1.29
+            REMARKS:    BIO 111, MTH 111, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       JACOB MONDAY
+            REG NO:     CCHSTZ/PT/050/21
+            TCUR:       42.0 
+            TCUE:       152.0 
+            CGPA:       3.62
+            REMARKS:    ENG 102, 
+
+
+            NAME:       JAPHET JESSE SAMUEL
+            REG NO:     CCHSTZ/PT/051/21
+            TCUR:       42.0 
+            TCUE:       122.0 
+            CGPA:       2.9
+            REMARKS:    MTH 112, ENG 102, 
+
+
+            NAME:       JOHNSON HAPPINESS EDET
+            REG NO:     CCHSTZ/PT/052/21
+            TCUR:       42.0 
+            TCUE:       88.5 
+            CGPA:       2.11
+            REMARKS:    ICT 101, ENG 102, BDT 152, 
+
+
+            NAME:       JOHNSON PRAISE
+            REG NO:     CCHSTZ/PT/053/21
+            TCUR:       42.0 
+            TCUE:       93.0 
+            CGPA:       2.21
+            REMARKS:    ETP 101, PHY 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       JOSEPH ELLIOT
+            REG NO:     CCHSTZ/PT/054/21
+            TCUR:       42.0 
+            TCUE:       105.0 
+            CGPA:       2.5
+            REMARKS:    ENG 101, 
+
+
+            NAME:       JOSEPH FRIDAY
+            REG NO:     CCHSTZ/PT/055/21
+            TCUR:       42.0 
+            TCUE:       103.0 
+            CGPA:       2.45
+            REMARKS:    CHM 111, PHY 112, MCB 112, 
+
+
+            NAME:       JOSEPH MEEKNESS
+            REG NO:     CCHSTZ/PT/056/21
+            TCUR:       42.0 
+            TCUE:       47.5 
+            CGPA:       1.13
+            REMARKS:    ENG 101, ICT 101, CHM 111, BIO 111, BIO 112, CHM 112, PHY 112, BDT 152, MCB 112, 
+
+
+            NAME:       JOSHUA FLORENCE
+            REG NO:     CCHSTZ/PT/057/21
+            TCUR:       42.0 
+            TCUE:       127.0 
+            CGPA:       3.02
+            REMARKS:    ENG 102, 
+
+
+            NAME:       JUDE EMMANUEL
+            REG NO:     CCHSTZ/PT/058/21
+            TCUR:       42.0 
+            TCUE:       90.5 
+            CGPA:       2.15
+            REMARKS:    ICT 101, BIO 111, CHM 112, 
+
+
+            NAME:       EMMANUEL JUSTINE BUZZUN
+            REG NO:     CCHSTZ/PT/059/21
+            TCUR:       42.0 
+            TCUE:       98.0 
+            CGPA:       2.33
+            REMARKS:    BIO 111, MCB 112, 
+
+
+            NAME:       JOEL BLESSING YACHAT
+            REG NO:     CCHSTZ/PT/060/21
+            TCUR:       42.0 
+            TCUE:       26.0 
+            CGPA:       0.62
+            REMARKS:    ENG 101, ICT 101, CHM 111, BIO 111, ETP 101, BIO 112, CHM 112, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       KOYANBISHINGU JOLLY
+            REG NO:     CCHSTZ/PT/061/21
+            TCUR:       42.0 
+            TCUE:       106.0 
+            CGPA:       2.52
+            REMARKS:    ENG 101, ENG 102, 
+
+
+            NAME:       MADU ABIGAIL CHIDERA
+            REG NO:     CCHSTZ/PT/062/21
+            TCUR:       42.0 
+            TCUE:       99.5 
+            CGPA:       2.37
+            REMARKS:    ETP 101, ENG 102, 
+
+
+            NAME:       MATHEW PATRICIA
+            REG NO:     CCHSTZ/PT/063/21
+            TCUR:       42.0 
+            TCUE:       80.0 
+            CGPA:       1.9
+            REMARKS:    PHY 112, ENG 102, BDT 152, AUM 122, 
+
+
+            NAME:       MATHIAS FAITH
+            REG NO:     CCHSTZ/PT/064/21
+            TCUR:       42.0 
+            TCUE:       59.5 
+            CGPA:       1.42
+            REMARKS:    ENG 101, ICT 101, BIO 111, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       MESHAL ZAMANI
+            REG NO:     CCHSTZ/PT/065/21
+            TCUR:       42.0 
+            TCUE:       81.5 
+            CGPA:       1.94
+            REMARKS:    BIO 111, PHY 112, MCB 112, 
+
+
+            NAME:       MICHAEL SAMSON
+            REG NO:     CCHSTZ/PT/066/21
+            TCUR:       42.0 
+            TCUE:       66.5 
+            CGPA:       1.58
+            REMARKS:    CHM 111, BIO 111, PHY 112, ENG 102, BDT 152, 
+
+
+            NAME:       BENARD MIRACLE ENE
+            REG NO:     CCHSTZ/PT/067/21
+            TCUR:       42.0 
+            TCUE:       70.0 
+            CGPA:       1.67
+            REMARKS:    ENG 101, PHY 111, PHY 112, ENG 102, BDT 152, AUM 122, 
+
+
+            NAME:       MONDAY PATIENCE
+            REG NO:     CCHSTZ/PT/068/21
+            TCUR:       42.0 
+            TCUE:       80.5 
+            CGPA:       1.92
+            REMARKS:    ENG 101, CHM 111, BIO 111, BDT 152, 
+
+
+            NAME:       MORICK ARAMA ALEXANDER
+            REG NO:     CCHSTZ/PT/069/21
+            TCUR:       42.0 
+            TCUE:       152.0 
+            CGPA:       3.62
+            REMARKS:    ENG 102, 
+
+
+            NAME:       MOSES GIDEON KAURA
+            REG NO:     CCHSTZ/PT/070/21
+            TCUR:       42.0 
+            TCUE:       80.0 
+            CGPA:       1.9
+            REMARKS:    ICT 101, BIO 111, BIO 112, PHY 112, MCB 112, 
+
+
+            NAME:       MUSA VICTORIA EXCELLENT
+            REG NO:     CCHSTZ/PT/071/21
+            TCUR:       42.0 
+            TCUE:       114.5 
+            CGPA:       2.73
+            REMARKS:    ENG 102, 
+
+
+            NAME:       FRIDAY NA'OMI
+            REG NO:     CCHSTZ/PT/072/21
+            TCUR:       42.0 
+            TCUE:       71.5 
+            CGPA:       1.7
+            REMARKS:    ENG 101, CHM 111, PHY 112, BDT 152, MCB 112, 
+
+
+            NAME:       NDAKSON ESTHER CLETUS
+            REG NO:     CCHSTZ/PT/073/21
+            TCUR:       42.0 
+            TCUE:       135.5 
+            CGPA:       3.23
+            REMARKS:    ENG 102, 
+
+
+            NAME:       OBADIAH GODIYA
+            REG NO:     CCHSTZ/PT/074/21
+            TCUR:       42.0 
+            TCUE:       112.0 
+            CGPA:       2.67
+            REMARKS:    ENG 102, 
+
+
+            NAME:       PIUS PATIENCE
+            REG NO:     CCHSTZ/PT/075/21
+            TCUR:       42.0 
+            TCUE:       143.5 
+            CGPA:       3.42
+            REMARKS:    ENG 102, 
+
+
+            NAME:       PRISCILLA SIMON
+            REG NO:     CCHSTZ/PT/076/21
+            TCUR:       42.0 
+            TCUE:       49.5 
+            CGPA:       1.18
+            REMARKS:    ENG 101, CHM 111, BIO 111, BIO 112, PHY 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       RAPHAEL FELICIA
+            REG NO:     CCHSTZ/PT/077/21
+            TCUR:       42.0 
+            TCUE:       76.5 
+            CGPA:       1.82
+            REMARKS:    CHM 111, BIO 111, MTH 111, ENG 102, 
+
+
+            NAME:       REJOICE JOSIAH
+            REG NO:     CCHSTZ/PT/078/21
+            TCUR:       42.0 
+            TCUE:       76.0 
+            CGPA:       1.81
+            REMARKS:    ENG 101, ICT 101, BIO 112, PHY 112, ENG 102, AUM 122, 
+
+
+            NAME:       SAMBO SIMEON SOLOMON
+            REG NO:     CCHSTZ/PT/079/21
+            TCUR:       42.0 
+            TCUE:       127.5 
+            CGPA:       3.04
+            REMARKS:    
+
+
+            NAME:       SAMUEL MOSES
+            REG NO:     CCHSTZ/PT/080/21
+            TCUR:       42.0 
+            TCUE:       65.0 
+            CGPA:       1.55
+            REMARKS:    ENG 101, MTH 111, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       SAMUEL PRECIOUS
+            REG NO:     CCHSTZ/PT/081/21
+            TCUR:       42.0 
+            TCUE:       144.5 
+            CGPA:       3.44
+            REMARKS:    ENG 102, 
+
+
+            NAME:       SHOBANDE OLADAYO
+            REG NO:     CCHSTZ/PT/082/21
+            TCUR:       42.0 
+            TCUE:       54.5 
+            CGPA:       1.3
+            REMARKS:    ENG 101, BIO 111, BDT 151, BIO 112, PHY 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       SILAS GODFREY NKUT
+            REG NO:     CCHSTZ/PT/083/21
+            TCUR:       42.0 
+            TCUE:       71.0 
+            CGPA:       1.69
+            REMARKS:    ENG 101, CHM 111, BIO 111, PHY 112, MCB 112, 
+
+
+            NAME:       SIMEON PHILOMENA
+            REG NO:     CCHSTZ/PT/084/21
+            TCUR:       42.0 
+            TCUE:       157.0 
+            CGPA:       3.74
+            REMARKS:    ENG 102, 
+
+
+            NAME:       SULEIMAN YAHAYA
+            REG NO:     CCHSTZ/PT/085/21
+            TCUR:       42.0 
+            TCUE:       156.5 
+            CGPA:       3.73
+            REMARKS:    ENG 102, 
+
+
+            NAME:       TANKO JERRY
+            REG NO:     CCHSTZ/PT/086/21
+            TCUR:       42.0 
+            TCUE:       109.0 
+            CGPA:       2.6
+            REMARKS:    ICT 101, ETP 101, ENG 102, 
+
+
+            NAME:       THOMAS JULIET
+            REG NO:     CCHSTZ/PT/087/21
+            TCUR:       42.0 
+            TCUE:       46.5 
+            CGPA:       1.11
+            REMARKS:    ENG 101, BIO 111, MTH 111, BIO 112, CHM 112, PHY 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       TANKA THOMAS
+            REG NO:     CCHSTZ/PT/088/21
+            TCUR:       42.0 
+            TCUE:       100.0 
+            CGPA:       2.38
+            REMARKS:    ENG 101, 
+
+
+            NAME:       TYEMKYOR AONDONA CEPHAS
+            REG NO:     CCHSTZ/PT/089/21
+            TCUR:       42.0 
+            TCUE:       156.0 
+            CGPA:       3.71
+            REMARKS:    
+
+
+            NAME:       UMAR DORIS
+            REG NO:     CCHSTZ/PT/090/21
+            TCUR:       42.0 
+            TCUE:       115.5 
+            CGPA:       2.75
+            REMARKS:    ENG 102, 
+
+
+            NAME:       USMAN ZIPPORAH
+            REG NO:     CCHSTZ/PT/091/21
+            TCUR:       42.0 
+            TCUE:       118.0 
+            CGPA:       2.81
+            REMARKS:    CHM 111, ENG 102, 
+
+
+            NAME:       WARTU CHAVALADA REUBEN
+            REG NO:     CCHSTZ/PT/092/21
+            TCUR:       42.0 
+            TCUE:       108.5 
+            CGPA:       2.58
+            REMARKS:    ENG 101, ICT 101, ENG 102, 
+
+
+            NAME:       WAZIRI ATIKU HAUWA'U
+            REG NO:     CCHSTZ/PT/093/21
+            TCUR:       42.0 
+            TCUE:       151.5 
+            CGPA:       3.61
+            REMARKS:    
+
+
+            NAME:       ISHAKU WISDOM
+            REG NO:     CCHSTZ/PT/094/21
+            TCUR:       42.0 
+            TCUE:       73.0 
+            CGPA:       1.74
+            REMARKS:    CHM 111, BIO 111, MTH 111, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       YAHAYA FELICIA
+            REG NO:     CCHSTZ/PT/095/21
+            TCUR:       42.0 
+            TCUE:       118.0 
+            CGPA:       2.81
+            REMARKS:    ENG 102, 
+
+
+            NAME:       YAHAYA JOY
+            REG NO:     CCHSTZ/PT/096/21
+            TCUR:       42.0 
+            TCUE:       122.0 
+            CGPA:       2.9
+            REMARKS:    ENG 102, 
+
+
+            NAME:       YAHUZA IBRAHIM
+            REG NO:     CCHSTZ/PT/097/21
+            TCUR:       42.0 
+            TCUE:       122.5 
+            CGPA:       2.92
+            REMARKS:    ENG 102, 
+
+
+            NAME:       YAKUBU DEBORAH MUSA
+            REG NO:     CCHSTZ/PT/098/21
+            TCUR:       42.0 
+            TCUE:       61.0 
+            CGPA:       1.45
+            REMARKS:    ENG 101, ICT 101, BIO 111, MTH 112, ENG 102, MCB 112, AUM 122, 
+
+
+            NAME:       YAKUBU MUSA ADAMU
+            REG NO:     CCHSTZ/PT/099/21
+            TCUR:       42.0 
+            TCUE:       63.0 
+            CGPA:       1.5
+            REMARKS:    CHM 111, BIO 112, CHM 112, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       YOHANNA AUGUSTINA
+            REG NO:     CCHSTZ/PT/101/21
+            TCUR:       42.0 
+            TCUE:       137.0 
+            CGPA:       3.26
+            REMARKS:    ENG 102, 
+
+
+            NAME:       YUSUF ANDRAWUS
+            REG NO:     CCHSTZ/PT/102/21
+            TCUR:       42.0 
+            TCUE:       53.0 
+            CGPA:       1.26
+            REMARKS:    ENG 101, ICT 101, BIO 111, BIO 112, PHY 112, ENG 102, BDT 152, MCB 112, 
+
+
+            NAME:       YUSUF G. WONDER
+            REG NO:     CCHSTZ/PT/103/21
+            TCUR:       42.0 
+            TCUE:       129.0 
+            CGPA:       3.07
+            REMARKS:    ENG 102, 
+
+
+            NAME:       ZAHARA'U NASIRU
+            REG NO:     CCHSTZ/PT/104/21
+            TCUR:       42.0 
+            TCUE:       43.0 
+            CGPA:       1.02
+            REMARKS:    BIO 111, BDT 151, BIO 112, CHM 112, PHY 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       ZAINAB DAUDA
+            REG NO:     CCHSTZ/PT/105/21
+            TCUR:       42.0 
+            TCUE:       54.5 
+            CGPA:       1.3
+            REMARKS:    ENG 101, ICT 101, CHM 111, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       ZEHAM PEACE
+            REG NO:     CCHSTZ/PT/106/21
+            TCUR:       42.0 
+            TCUE:       144.0 
+            CGPA:       3.43
+            REMARKS:    ENG 102, 
+
+
+            NAME:       MUHAMMAD ABDULLAHI
+            REG NO:     CCHSTZ/PT/107/21
+            TCUR:       20.0 
+            TCUE:       0.0 
+            CGPA:       0.0
+            REMARKS:    BIO 112, CHM 112, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+
+
+            NAME:       SIMON NA'OMI
+            REG NO:     CCHSTZ/PT/108/21
+            TCUR:       42.0 
+            TCUE:       28.0 
+            CGPA:       0.67
+            REMARKS:    ENG 101, PHY 111, CHM 111, BIO 111, MTH 111, BIO 112, PHY 112, MTH 112, ENG 102, BDT 152, MCB 112, AUM 122, 
+

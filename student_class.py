@@ -133,3 +133,10 @@ session = Session()
 # session.commit()
 # dcc_cookie = query.first()
 # print(dcc_cookie)
+
+
+#trying get method
+student = session.query(Student).get('cchstz/pt/107/21'.upper())
+print(student)
+
+

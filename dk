@@ -1,0 +1,91 @@
+[33mcommit b0ea18fdc9f9dc4af54850f11ce98f57f3228083[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_sql_branch[m[33m)[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Fri Jan 20 21:57:27 2023 +0100
+
+    Changed REAL to NUMERIC for float managemet
+
+[33mcommit 2620d766d57768a382ce663a6e5620a255d8d5f0[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Wed Jan 18 09:04:02 2023 +0100
+
+    I queried student record using .get()
+
+[33mcommit b017ad66f0bae7274761baa376560d1f7bef4268[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Wed Jan 18 01:53:57 2023 +0100
+
+    add 108 students records to the data base
+
+[33mcommit 27315c046a05604a5d215d68ee35d297226a94ec[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Jan 17 17:44:50 2023 +0100
+
+    Updated calc gpa to remove passed remarks
+
+[33mcommit 2bbc9b0dbb5e500762b58d1a613c4429e85103da[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Jan 17 17:34:13 2023 +0100
+
+    corrected an error in the subjects modules
+
+[33mcommit 93bf3d70703909d03d521f468e5aa3d5a3baa783[m[33m ([m[1;32mmy_new_brach[m[33m)[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Mon Jan 16 22:16:34 2023 +0100
+
+    Added code for updating data in db
+    
+    I have finally learnt how to update data in sqlalchemy
+    kudos to me bruv
+
+[33mcommit 3e3073dfdd665032a89a36ddab914525dcb1f6ad[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Mon Jan 16 21:07:11 2023 +0100
+
+    Removed ")" in Student __repr__
+    
+    I removed a mistake in the __repr__ constructor. Thanks for this
+    improvement
+
+[33mcommit bc9d356db663fbf1c1ea86f676e23387207aa976[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Mon Jan 16 20:12:46 2023 +0100
+
+    New commit 2023
+    
+    I added nullable and unique key
+
+[33mcommit c7c5a9a77fe83aba9bf4fa223fe440f73d3a152c[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Thu Dec 29 13:23:44 2022 +0100
+
+    I reformatted the course titles
+
+[33mcommit b8dc03848e72c07161de563ef8051fbd83bb39a8[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Wed Dec 28 19:40:31 2022 +0100
+
+    Just added 2021 entrants probation people
+
+[33mcommit 7ceac006478ad67b3dd4d19071d53c1db67ba602[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Dec 27 21:32:29 2022 +0100
+
+    sqlalchemy 2nd version
+
+[33mcommit 5f35b3a7a7c451ad0b33289bb1bde5fa9a3284cd[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Dec 27 19:39:43 2022 +0100
+
+    sqlalchemy 1st version
+
+[33mcommit 79ce774feb183c18d6a3b03bea198687563bccf0[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Dec 27 01:28:54 2022 +0100
+
+    made first functional cgpa calculator part 2
+
+[33mcommit 1ecd37c9b52afc0b330fe09b412ea5970f3a0802[m
+Author: Michael Bamikunle <mikulobams@gmail.com>
+Date:   Tue Dec 27 01:14:13 2022 +0100
+
+    made first functional cgpa calculator

@@ -140,5 +140,6 @@ session = Session()
 # print(student)
 
 #how many students are above 2.0 cgpa
-student = session.query(Student).filter(Student.cgpa >= 2.0).all()
-print(f'{len(student)} students have above 2.0 cgpa')
+student_2_0 = session.query(Student).filter(Student.cgpa >= 2.0).all()
+total_students = session.query(Student).all()
+print(f'{len(student_2_0)} students have above 2.0 cgpa out of {len(total_students)} students')

@@ -136,7 +136,9 @@ session = Session()
 
 
 #trying get method
-student = session.query(Student).get('cchstz/pt/107/21'.upper())
-print(student)
+# student = session.query(Student).get('cchstz/pt/107/21'.upper())
+# print(student)
 
-
+#how many students are above 2.0 cgpa
+student = session.query(Student).filter(Student.cgpa >= 2.0).all()
+print(f'{len(student)} students have above 2.0 cgpa')

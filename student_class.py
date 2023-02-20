@@ -1,5 +1,5 @@
 #REcords for 2021 entrants
-from sqlalchemy import create_engine, Column, String, REAL
+from sqlalchemy import create_engine, Column, String, REAL, desc
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from subject_class import *
@@ -116,8 +116,8 @@ session = Session()
 
 
 
-# test = session.query(Student).order_by(Student.regno).all()
-# print(test)
+test = session.query(Student).order_by(desc(Student.cgpa)).all()
+print(test)
 
 #query and then update student
 # update_record = session.query(Student).filter(Student.regno == 'cchstz/pt/104/21'.upper()).first()
@@ -140,6 +140,6 @@ session = Session()
 # print(student)
 
 #how many students are above 2.0 cgpa
-student_2_0 = session.query(Student).filter(Student.cgpa >= 1.5).all()
-total_students = session.query(Student).all()
-print(f'{len(student_2_0)} students have above 1.5 cgpa out of {len(total_students)} students')
+# student_2_0 = session.query(Student).filter(Student.cgpa >= 1.5).all()
+# total_students = session.query(Student).all()
+# print(f'{len(student_2_0)} students have above 1.5 cgpa out of {len(total_students)} students')
